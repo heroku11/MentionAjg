@@ -17,9 +17,8 @@ class SimplifiedUser:
 
 def extract_mentioned_users(client: Client, message: Message) -> List[SimplifiedUser]:
     """
-    Recibe un mensaje para sacar de él todas las menciones de usuario y devolver
-    el ID y First Name, tanto menciones directas (@coleguita) como text_mentions de
-    usuarios sin username.
+    Mari Kita tag (@mention)(Nama_pengguna) anak Bangsat
+    Gaterima Baku Hantam Sini Ajg
 
     :param client:      Pyrogram Client
     :param message:     Pyrogram Message object
