@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-- rady / uborzz
-Samples of getting members from chat GROUP (No Channel),
-taking the group ID from a command message generated in a group,
-& sending messages back to group
+- Tag Para Member / admin bangsat
 """
 
 import creds
