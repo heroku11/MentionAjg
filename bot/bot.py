@@ -53,7 +53,7 @@ class Bot:
             client.send_message(message.chat.id, text=message.chat)
 
         if module_megacall:
-            text = "FUCKING MEGACALL!!!\n"
+            text = "SINI GUA TAG ORANG-ORANG BANGSAT!!!\n"
             megacall.load(bot_client=self.client, name=self.name, megacall_text=text)
         if module_calls:
             collection = self.db.calls
