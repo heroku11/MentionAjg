@@ -33,9 +33,7 @@ class TextLoader:
 
 class HelpTexts:
     """
-    Dinamically calls the client.send_message() with the content of the
-    file name given from the texts folder. Works with files with .md extensions.
-    """
+    intinya Ngetag Anak anak bangsat,biadab,laknat,preman,sok bucin dll """
 
     def __init__(self):
         mypath = os.path.join(os.path.dirname(__file__), "static_texts")
